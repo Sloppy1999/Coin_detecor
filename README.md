@@ -1,4 +1,4 @@
-# Coin_detector# Image-Based Coin Recognizer
+# Coin_detector Image-Based Coin Recognizer
 
 ## Overview
 This repository contains a Python implementation of an image-based coin recognizer using the OpenCV library. The `CoinDetector` class is designed to identify and analyze coins within a given image, providing information such as the coin's name, area in square millimeters, center coordinates, and radius.
@@ -49,7 +49,7 @@ coin_detector.process_image()
 ```
 
 ## Sample Output
-![Detected Objects](path/to/your/image_result.jpg)
+![Detected Objects](coins.jpg)
 
 ## Notes
 - The coin recognition is based on predefined area ranges for common Euro coins.
