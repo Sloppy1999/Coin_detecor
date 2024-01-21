@@ -51,7 +51,7 @@ coin_detector.process_image()
 ## Sample Input
 ![Detected Objects](coins.jpg)
 ## Sample Output
-![Detected Objects](coin_detector.jpg)
+![Detected Objects](coin_detector.png)
 
 ## Notes
 - The coin recognition is based on predefined area ranges for common Euro coins.
